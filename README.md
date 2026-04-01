@@ -1,5 +1,7 @@
 # Bank Chrun Prediction using ANNs
 
+![image here](https://lumoa.me/wp-content/uploads/2019/09/why-does-churn-matter_600.jpg)
+
 Churn is when a customer cancels, stops using, or switches away from a service.
 
 Churn rate = the percentage of customers who leave over a certain period.

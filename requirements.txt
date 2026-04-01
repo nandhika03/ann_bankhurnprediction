@@ -1,4 +1,5 @@
-tensorflow
+python==3.10
+tensorflow==2.12.0  # or any version compatible with 3.10
 numpy
 pandas
 matplotlib
